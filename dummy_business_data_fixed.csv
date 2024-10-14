@@ -1,0 +1,6 @@
+city,state,latitude,longitude,stars,review_count,is_open,BusinessAcceptsCreditCards,RestaurantsPriceRange2,Restaurants,Food,Shopping,Home_Services,Beauty_&_Spas,Nightlife,Health_&_Medical,Local_Services,Bars,Automotive,garage,street,lot,valet
+0,1,40.7128,-74.006,4.5,120,1,1,3,1,1,0,1,0,1,0,0,1,0,0,0,0,2.0
+1,2,34.0522,-118.2437,4.0,90,1,1,2,1,0,1,0,1,0,1,1,0,1,1,1,1,3.0
+2,1,37.7749,-122.4194,3.5,200,0,0,1,0,1,1,0,1,1,0,1,0,0,1,1,1,1.0
+3,3,41.8781,-87.6298,4.2,85,1,1,2,1,1,1,1,0,1,1,0,1,1,1,1,1,2.5
+4,4,29.7604,-95.3698,3.8,50,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1,1.5
