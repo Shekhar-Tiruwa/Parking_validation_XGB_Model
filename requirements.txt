@@ -1,6 +1,10 @@
+pip==24.2
+setuptools
+wheel
 streamlit==1.25.0
 numpy==1.24.3
 pandas==2.0.3
 xgboost==1.7.5
 scikit-learn==1.2.2
+
 
